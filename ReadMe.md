@@ -11,20 +11,15 @@ I am the developer of **HG Cheats**, a suite of safe and reliable gaming tools d
 
 ## 📊 GitHub Stats:
 
-**🌟 Total Stars Earned:**  
-15,430  
+**🌟 Total Stars Earned:**            15,430  
 
-**🛠️ Total Commits (2025):**  
-9,801  
+**🛠️ Total Commits (2025):**                   9,801 
 
-**📬 Total Pull Requests:**  
-1,640  
+**📬 Total Pull Requests:**           1640
 
-**❗ Total Issues Resolved:**  
-1,202  
+**❗ Total Issues Resolved:**       1,202  
 
-**🌍 Contributed to Repos (Last Year):**  
-1,192  
+**🌍 Contributed to Repos (Last Year):**        1,192  
 
 ---
 
