@@ -25,14 +25,11 @@ I am the developer of **HG Cheats**, a suite of safe and reliable gaming tools d
 
 ## 🎖️ Contribution Highlights:
 
-**🔥 Total Contributions (May 18 - Present):**  
-7,425  
+**🔥 Total Contributions:**           7,425   
 
-**⚡ Current Streak:**  
-84 days  
+**⚡ Current Streak:**                   84 days  
 
-**🏆 Longest Streak:**  
-183 days  
+**🏆 Longest Streak:**                 183 days  
 
 ---
 
