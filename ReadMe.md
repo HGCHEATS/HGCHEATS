@@ -45,14 +45,10 @@ I am the developer of **HG Cheats**, a suite of safe and reliable gaming tools d
 
 ## 🏆 GitHub Trophies:
 
-**⭐ Stars Given:**  
-5,000+  
+**⭐ Stars Given:**                      5,000+  
 
-**🧠 Repositories Owned:**  
-85  
+**🧠 Repositories Owned:**       85  
 
-**📈 Most Active Month:**  
-January  
+**📈 Most Active Month:**        January  
 
-**🎯 Profile Rank:**  
-A++
+**🎯 Profile Rank:**                    A++
