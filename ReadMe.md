@@ -29,7 +29,7 @@ I am the developer of **HG Cheats**, a suite of safe and reliable gaming tools d
 
 **⚡ Current Streak:**                   84 days  
 
-**🏆 Longest Streak:**                 183 days  
+**🏆 Longest Streak:**                  183 days  
 
 ---
 
