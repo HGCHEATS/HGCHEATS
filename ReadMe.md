@@ -35,7 +35,7 @@ I am the developer of **HG Cheats**, a suite of safe and reliable gaming tools d
 
 ## ♨️ Most Used Languages:
 
-**1. Python**              ████████████████████▌ **43.3%**  
+**1. Python**               ████████████████████▌ **43.3%**  
 **2. JavaScript**        ██████████████▌ **31.2%**  
 **3. C++**                   ████████▋ **15.1%**  
 **4. Lua**                    ████▍ **7.2%**  
